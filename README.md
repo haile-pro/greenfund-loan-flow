@@ -1,63 +1,44 @@
-# Welcome to your Lovable project
+# GreenFund dApp
 
-## Project info
+A decentralized application (dApp) designed to manage and distribute community-based green loans with transparency and accountability. Built using modern Web3 and frontend technologies.
 
-**URL**: https://lovable.dev/projects/351485a4-e70c-4b7f-8c6d-3fb59002aa62
+---
 
-## How can I edit this code?
+## 🌱 Project Overview
 
-There are several ways of editing your application.
+GreenFund enables users to apply for, distribute, and repay eco-focused community loans in a transparent and trustless manner, powered by smart contracts on the Ethereum blockchain.
 
-**Use Lovable**
+### 🔍 Key Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/351485a4-e70c-4b7f-8c6d-3fb59002aa62) and start prompting.
+- Decentralized loan disbursement and repayment tracking  
+- Smart contract-powered verification using Solidity  
+- Wallet integration using MetaMask  
+- Transparent loan impact reporting  
+- User-friendly UI built with React and Tailwind CSS  
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## ⚙️ Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **Frontend:** React, TypeScript, Tailwind CSS, shadcn-ui  
+- **Blockchain:** Solidity, Hardhat, Ethers.js  
+- **Development Tools:** Vite, Node.js  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🚀 Getting Started
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+To run this project locally:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+```bash
+# Clone the repository
+git clone <YOUR_REPO_URL>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Navigate to the project directory
+cd greenfund-dapp
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Install dependencies
+npm install
+
+# Run the development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-
